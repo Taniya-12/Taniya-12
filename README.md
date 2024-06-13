@@ -1,4 +1,4 @@
-![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Its-Time-To-Program-Something.jpg)
+
 
 <h1 align="center"># Hi, I'm Taniya Kumari! 👋</h1>
 <h3 align="center">A dedicated problem solver with practical skills in C, C++. I recently graduated from Chaibasa Engineering College, specializing in React development with proficiency in Next.js, React, HTML, CSS, JavaScript, mongo .</h3>
