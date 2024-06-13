@@ -1,9 +1,10 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/012/720/075/non_2x/cloud-computing-social-media-banner-hi-tech-cloud-connection-technology-linkedin-cover-internet-business-technology-header-global-data-information-exchange-background-illustration-vector.jpg)
 
 <h1 align="center"># Hi, I'm Taniya Kumari! 👋</h1>
-
 <h3 align="center">A dedicated problem solver with practical skills in C, C++. I recently graduated from Chaibasa Engineering College, specializing in React development with proficiency in Next.js, React, HTML, CSS, JavaScript, mongo .</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
+
 
 - 👨‍💻 Some of my projects are available at [Click here](https://drive.google.com/file/d/1x-mzIv8kyyCJLFYpwO4pLmgPjee458mF/view?usp=sharing)
 
