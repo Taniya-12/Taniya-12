@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/012/720/075/non_2x/cloud-computing-social-media-banner-hi-tech-cloud-connection-technology-linkedin-cover-internet-business-technology-header-global-data-information-exchange-background-illustration-vector.jpg)
+![MasterHead](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Coding-Questions--Thumbnails_1200x558.png)
 
 <h1 align="center"># Hi, I'm Taniya Kumari! 👋</h1>
 <h3 align="center">A dedicated problem solver with practical skills in C, C++. I recently graduated from Chaibasa Engineering College, specializing in React development with proficiency in Next.js, React, HTML, CSS, JavaScript, mongo .</h3>
