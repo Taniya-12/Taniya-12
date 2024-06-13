@@ -6,11 +6,11 @@
 
 
 
-- 👨‍💻 Some of my projects are available at [Click here](https://drive.google.com/file/d/1x-mzIv8kyyCJLFYpwO4pLmgPjee458mF/view?usp=sharing)
+- 👨‍💻 Some of my projects are available at [Click here](https://taniya-portfolio.netlify.app/)
 
 - 📩 How to reach me **taniyakumari646@gmail.com**
 
-- 📄 Know about my experiences [Click here](https://taniya-portfolio.netlify.app/)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1x-mzIv8kyyCJLFYpwO4pLmgPjee458mF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
